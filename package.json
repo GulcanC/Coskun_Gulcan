@@ -1,0 +1,15 @@
+{
+  "name": "gulcanc_portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "GULCAN COSKUN",
+  "license": "ISC",
+  "homepage": "https://GulcanC.github.io/Coskun_Gulcan",
+  "description": "Portfolio Gulcan Coskun",
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
