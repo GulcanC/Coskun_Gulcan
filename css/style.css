@@ -773,6 +773,20 @@ iframe {
 
 
 
+@media (min-width: 768px) and (max-width: 992px) {
+
+  #text-small {
+    font-size: 10px;
+   
+
+  }
+#text-small-2 {
+   font-size: 13px;
+}
+
+
+  
+}
 
 @media (min-width: 992px) and (max-width: 1700px) {
   .card-body-projects {
